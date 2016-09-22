@@ -59,6 +59,16 @@
 
 /* Basic */
 
+	.imagefix img { 
+
+		width: 300px; height: 300px;
+
+	 }
+
+	.center{
+		margin-left: 600px;
+	}
+
 	@media screen and (max-width: 480px) {
 
 		html, body {
@@ -854,3 +864,4 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
