@@ -2046,7 +2046,14 @@
 		.image img {
 			border-radius: 0.35em;
 			display: block;
-		
+
+		}
+
+		#picheight{
+
+			height: 272.13px;
+			width: 464px;
+
 		}
 
 		.image.left {
